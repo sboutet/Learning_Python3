@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+# Chapter 15: Reversi (in Python 3) in "invent your own computer games with python" by Al Sweigart
+
 import random
 import sys
 
